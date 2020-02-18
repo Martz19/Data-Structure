@@ -1,0 +1,1 @@
+ clase que pueda recibir string
